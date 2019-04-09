@@ -1,6 +1,6 @@
-# [Dancing Lights](https://drive.google.com/file/d/110YDLC42UPF5E4cwvmgw3WnwZKq_24PJ/view)
+# Dancing Lights
 
-Supporting Dance Performances for Deaf and Hard of Hearing People through Lighting Effects
+Supporting Dance Performances for Deaf and Hard of Hearing People through Lighting Effects [paper](https://drive.google.com/file/d/110YDLC42UPF5E4cwvmgw3WnwZKq_24PJ/view)
 
 ## File Description
 
